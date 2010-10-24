@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<!-- Some task descriptions, to eventually be used in a questionaire to build a training/test dataset.  All tasks should be 140 characters or less. -->
 <tasks>
   <task id="1">
     <!-- From Bill Schofield's simpleParticles project -->
@@ -10,7 +11,7 @@
   </task>
   <task id="3">
     <!-- From my Facebook Semantic Web Exporter -->
-    <description>Add support for exporting group membership with the SIOC ontology to a Facebook application that exports user information and relationships.</description>
+    <description>Add support for exporting group membership with the SIOC ontology to a Facebook application that exports user information and relationships, written in Python and web2py.</description>
   </task>
   <task id="4">
     <!-- From my hS3 library -->
@@ -19,5 +20,13 @@
   <task id="5">
     <!-- From Jenn's Android ringerApp -->
     <description>Create an Android widget to silence a phone's ringer, and re-enable it after a fixed amount of time.</description>
+  </task>
+  <task id="6">
+    <!-- AppStoreSalesCharting app by Nick G. and myself -->
+    <description>Show per-country sales data as a heatmap for Apple's App Store, using the R environment for statistical computing.</description>
+  </task>
+  <!-- Clojure feedparser-clj library -->
+  <task id="7">
+    <description>Create a feedparser-style library for Clojure, that can parse RSS and Atom feeds.</description>
   </task>
 </tasks>
