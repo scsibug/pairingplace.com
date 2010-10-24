@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tasks>
+  <task id="1">
+    <!-- From Bill Schofield's simpleParticles project -->
+    <description>Add friction, jitter, and oscillating gravity to a particle simulation iPhone application, in Objective-C.</description>
+  </task>
+  <task id="2">
+    <!-- Paul Hammant's JProxyGen project -->
+    <description>Use the Java ASM framework to generate a Proxy class, creating a callback that is invoked for overridden methods.</description>
+  </task>
+  <task id="3">
+    <!-- From my Facebook Semantic Web Exporter -->
+    <description>Add support for exporting group membership with the SIOC ontology to a Facebook application that exports user information and relationships.</description>
+  </task>
+  <task id="4">
+    <!-- From my hS3 library -->
+    <description>Add support for object versioning to hS3, the Haskell API to Amazon's Simple Storage Service (S3).</description>
+  </task>
+  <task id="5">
+    <!-- From Jenn's Android ringerApp -->
+    <description>Create an Android widget to silence a phone's ringer, and re-enable it after a fixed amount of time.</description>
+  </task>
+</tasks>
