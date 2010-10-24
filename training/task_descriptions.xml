@@ -11,7 +11,7 @@
   </task>
   <task id="3">
     <!-- From my Facebook Semantic Web Exporter -->
-    <description>Add support for exporting group membership with the SIOC ontology to a Facebook application that exports user information and relationships, written in Python and web2py.</description>
+    <description>Add support for extracting group membership with the SIOC ontology to a Facebook application that exports user information and relationships, written in Python and web2py.</description>
   </task>
   <task id="4">
     <!-- From my hS3 library -->
